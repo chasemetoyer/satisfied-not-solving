@@ -4,7 +4,8 @@ Code, data and every result file for the paper by Chase J. Metoyer (Northeastern
 
 - **Paper:** `paper/main.pdf` (LaTeX source in `paper/`). The arXiv link will be added here once it is announced.
 - **Archived snapshot:** release materials on Zenodo, [doi:10.5281/zenodo.23708845](https://doi.org/10.5281/zenodo.23708845).
-- **This version:** tag `v1.0`. The paper's links point to files at this tag.
+- **Versions:** the paper's file links point to tag `v1.0`; tag `v1.0.1` is the repository snapshot archived on
+  Zenodo. `main` holds the current paper.
 
 **What the paper finds.** We give PPO agents a bounded "satiation" reward (needs that build up over time, where
 relieving them is rewarding) and a cheap action that resets the needs. With that action, agents solved MiniGrid
