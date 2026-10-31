@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+results/seed*/
+paper/*.aux
+paper/*.log
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.blg
+paper/*.out
+paper/*.synctex.gz
+paper/arxiv/
+paper/arxiv-upload.tar.gz
+data/replay_B*.json

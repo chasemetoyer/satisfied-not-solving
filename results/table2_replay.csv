@@ -1,0 +1,7 @@
+col1,col2,col3,col4,col5
+Satiation (ours),Discounted intrinsic,Total discounted,Time-averaged drive,Presses per step
++ tamper,return,return,mean D,replay (training log)
+"growth 1/160, norm on","0.694 [0.690, 0.696]","0.694 [0.691, 0.696]","0.035 [0.033, 0.036]",0.061 (0.061)
+"growth 1/160, norm off","0.710 [0.707, 0.712]","0.710 [0.707, 0.712]","0.018 [0.017, 0.019]",0.096 (0.096)
+"growth 1/40, norm on","0.722 [0.721, 0.724]","0.723 [0.721, 0.724]","0.023 [0.022, 0.024]",0.269 (0.270)
+"growth 1/40, norm off","0.701 [0.700, 0.702]","0.702 [0.700, 0.703]","0.043 [0.042, 0.044]",0.188 (0.189)

@@ -1,0 +1,214 @@
+\begin{thebibliography}{27}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Africa and Ting(2025)]{africa2025selfevaluation}
+David~Demitri Africa and Hans~Ethan Ting.
+\newblock Does self-evaluation enable wireheading in language models?, 2025.
+\newblock arXiv:2511.23092.
+
+\bibitem[Amodei et~al.(2016)]{amodei2016concrete}
+Dario Amodei et~al.
+\newblock Concrete problems in {AI} safety, 2016.
+\newblock arXiv:1606.06565.
+
+\bibitem[Behzadan et~al.(2018)Behzadan, Yampolskiy, and
+  Munir]{behzadan2018addictive}
+Vahid Behzadan, Roman~V. Yampolskiy, and Arslan Munir.
+\newblock Emergence of addictive behaviors in reinforcement learning agents,
+  2018.
+\newblock arXiv:1811.05590.
+
+\bibitem[Bellemare et~al.(2016)Bellemare, Srinivasan, Ostrovski, Schaul,
+  Saxton, et~al.]{bellemare2016unifying}
+Marc~G. Bellemare, Sriram Srinivasan, Georg Ostrovski, Tom Schaul, David
+  Saxton, et~al.
+\newblock Unifying count-based exploration and intrinsic motivation.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2016.
+\newblock arXiv:1606.01868.
+
+\bibitem[Burda et~al.(2019{\natexlab{a}})Burda, Edwards, Pathak, Storkey,
+  Darrell, and Efros]{burda2019largescale}
+Yuri Burda, Harri Edwards, Deepak Pathak, Amos Storkey, Trevor Darrell, and
+  Alexei~A. Efros.
+\newblock Large-scale study of curiosity-driven learning.
+\newblock In \emph{International Conference on Learning Representations (ICLR
+  2019)}, 2019{\natexlab{a}}.
+\newblock arXiv:1808.04355.
+
+\bibitem[Burda et~al.(2019{\natexlab{b}})Burda, Edwards, Storkey, and
+  Klimov]{burda2019rnd}
+Yuri Burda, Harrison Edwards, Amos Storkey, and Oleg Klimov.
+\newblock Exploration by random network distillation.
+\newblock In \emph{International Conference on Learning Representations (ICLR
+  2019)}, 2019{\natexlab{b}}.
+\newblock \doi{10.48550/arXiv.1810.12894}.
+\newblock arXiv:1810.12894.
+
+\bibitem[{\c{C}}a{\u{g}}atan and Zhao(2026)]{cagatan2026reward}
+{\"{O}}mer~Veysel {\c{C}}a{\u{g}}atan and Xuandong Zhao.
+\newblock Reward hacking in language model agents: Revisiting {AI} safety
+  gridworlds, 2026.
+\newblock arXiv:2606.15385.
+
+\bibitem[Chevalier-Boisvert et~al.(2023)Chevalier-Boisvert, Dai, Towers,
+  Perez-Vicente, Willems, et~al.]{chevalier2023minigrid}
+Maxime Chevalier-Boisvert, Bolun Dai, Mark Towers, Rodrigo Perez-Vicente, Lucas
+  Willems, et~al.
+\newblock Minigrid \& miniworld: Modular \& customizable reinforcement learning
+  environments for goal-oriented tasks.
+\newblock In \emph{Advances in Neural Information Processing Systems 36
+  (NeurIPS 2023), Datasets and Benchmarks Track}, 2023.
+\newblock arXiv:2306.13831.
+
+\bibitem[Denison et~al.(2024)Denison, MacDiarmid, Barez, Duvenaud, Kravec,
+  et~al.]{denison2024sycophancy}
+Carson Denison, Monte MacDiarmid, Fazl Barez, David Duvenaud, Shauna Kravec,
+  et~al.
+\newblock Sycophancy to subterfuge: Investigating reward-tampering in large
+  language models, 2024.
+\newblock arXiv:2406.10162.
+
+\bibitem[Everitt and Hutter(2016)]{everitt2016avoiding}
+Tom Everitt and Marcus Hutter.
+\newblock Avoiding wireheading with value reinforcement learning.
+\newblock In \emph{Artificial General Intelligence (AGI 2016), Lecture Notes in
+  Computer Science}, 2016.
+\newblock \doi{10.1007/978-3-319-41649-6_2}.
+\newblock arXiv:1605.03143.
+
+\bibitem[Everitt et~al.(2021)Everitt, Hutter, Kumar, and
+  Krakovna]{everitt2021reward}
+Tom Everitt, Marcus Hutter, Ramana Kumar, and Victoria Krakovna.
+\newblock Reward tampering problems and solutions in reinforcement learning: a
+  causal influence diagram perspective.
+\newblock \emph{Synthese}, 2021.
+\newblock \doi{10.1007/s11229-021-03141-4}.
+\newblock arXiv:1908.04734.
+
+\bibitem[Huang et~al.(2022)Huang, Dossa, Ye, Braga, Chakraborty, Mehta, and
+  Ara{\'u}jo]{huang2022cleanrl}
+Shengyi Huang, Rousslan Fernand~Julien Dossa, Chang Ye, Jeff Braga, Dipam
+  Chakraborty, Kinal Mehta, and Jo{\~a}o G.~M. Ara{\'u}jo.
+\newblock {CleanRL}: High-quality single-file implementations of deep
+  reinforcement learning algorithms.
+\newblock \emph{Journal of Machine Learning Research}, 23\penalty0
+  (274):\penalty0 1--18, 2022.
+\newblock arXiv:2111.08819.
+
+\bibitem[Keramati and Gutkin(2014)]{keramati2014homeostatic}
+Mehdi Keramati and Boris~S. Gutkin.
+\newblock Homeostatic reinforcement learning for integrating reward collection
+  and physiological stability.
+\newblock \emph{eLife}, 2014.
+\newblock \doi{10.7554/eLife.04811}.
+
+\bibitem[Majha et~al.(2019)Majha, Sarkar, and Zagami]{majha2019categorizing}
+Arushi Majha, Sayan Sarkar, and Davide Zagami.
+\newblock Categorizing wireheading in partially embedded agents, 2019.
+\newblock arXiv:1906.09136.
+
+\bibitem[Osei(2026)]{osei2026specification}
+Hilda~Adwubi Osei.
+\newblock Specification gaming and a constrained reinforcement learning
+  mitigation in a cleaning gridworld, 2026.
+\newblock arXiv:2610.22152.
+
+\bibitem[Oudeyer et~al.(2007)Oudeyer, Kaplan, and Hafner]{oudeyer2007intrinsic}
+Pierre-Yves Oudeyer, Fr{\'e}d{\'e}ric Kaplan, and Verena~V. Hafner.
+\newblock Intrinsic motivation systems for autonomous mental development.
+\newblock \emph{IEEE Transactions on Evolutionary Computation}, 2007.
+\newblock \doi{10.1109/TEVC.2006.890271}.
+
+\bibitem[Pan et~al.(2022)Pan, Bhatia, and Steinhardt]{pan2022effects}
+Alexander Pan, Kush Bhatia, and Jacob Steinhardt.
+\newblock The effects of reward misspecification: Mapping and mitigating
+  misaligned models.
+\newblock In \emph{International Conference on Learning Representations (ICLR
+  2022)}, 2022.
+\newblock \doi{10.48550/arXiv.2201.03544}.
+\newblock arXiv:2201.03544.
+
+\bibitem[Pathak et~al.(2017)Pathak, Agrawal, Efros, and
+  Darrell]{pathak2017curiosity}
+Deepak Pathak, Pulkit Agrawal, Alexei~A. Efros, and Trevor Darrell.
+\newblock Curiosity-driven exploration by self-supervised prediction.
+\newblock In \emph{Proceedings of the 34th International Conference on Machine
+  Learning (ICML 2017)}, volume~70 of \emph{Proceedings of Machine Learning
+  Research}, 2017.
+\newblock arXiv:1705.05363.
+
+\bibitem[Pihlakas and Pyykk{\"o}(2025)]{pihlakas2025homeostasis}
+Roland Pihlakas and Joel Pyykk{\"o}.
+\newblock From homeostasis to resource sharing: Biologically and economically
+  aligned multi-objective multi-agent {AI} safety benchmarks, 2025.
+\newblock arXiv:2410.00081v4.
+
+\bibitem[Raileanu and Rockt{\"a}schel(2020)]{raileanu2020ride}
+Roberta Raileanu and Tim Rockt{\"a}schel.
+\newblock {RIDE}: Rewarding impact-driven exploration for
+  procedurally-generated environments.
+\newblock In \emph{International Conference on Learning Representations (ICLR
+  2020)}, 2020.
+\newblock \doi{10.48550/arXiv.2002.12292}.
+\newblock arXiv:2002.12292.
+
+\bibitem[Schulman et~al.(2017)Schulman, Wolski, Dhariwal, Radford, and
+  Klimov]{schulman2017proximal}
+John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov.
+\newblock Proximal policy optimization algorithms, 2017.
+\newblock arXiv:1707.06347.
+
+\bibitem[Shao et~al.(2024)Shao, Wang, Zhu, Xu, Song,
+  et~al.]{shao2024deepseekmath}
+Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, et~al.
+\newblock {DeepSeekMath}: Pushing the limits of mathematical reasoning in open
+  language models, 2024.
+\newblock arXiv:2402.03300.
+
+\bibitem[Singh et~al.(2010)Singh, Lewis, Barto, and
+  Sorg]{singh2010intrinsically}
+Satinder Singh, Richard~L. Lewis, Andrew~G. Barto, and Jonathan Sorg.
+\newblock Intrinsically motivated reinforcement learning: An evolutionary
+  perspective.
+\newblock \emph{IEEE Transactions on Autonomous Mental Development}, 2010.
+\newblock \doi{10.1109/TAMD.2010.2051031}.
+
+\bibitem[Skalse et~al.(2022)Skalse, Howe, Krasheninnikov, and
+  Krueger]{skalse2022defining}
+Joar Skalse, Nikolaus H.~R. Howe, Dmitrii Krasheninnikov, and David Krueger.
+\newblock Defining and characterizing reward hacking.
+\newblock In \emph{Advances in Neural Information Processing Systems 35
+  (NeurIPS 2022)}, 2022.
+\newblock arXiv:2209.13085.
+
+\bibitem[Villalobos-Arias et~al.(2025)Villalobos-Arias, Forbes, Wang, Roberts,
+  and Jhala]{villalobos2025minding}
+Leonardo Villalobos-Arias, Grant Forbes, Jianxun Wang, David~L. Roberts, and
+  Arnav Jhala.
+\newblock Minding motivation: The effect of intrinsic motivation on agent
+  behaviors.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence and Interactive Digital Entertainment (AIIDE)}, volume~21, pages
+  347--356, 2025.
+\newblock \doi{10.1609/aiide.v21i1.36838}.
+\newblock arXiv:2507.19725.
+
+\bibitem[Viteri et~al.(2026)Viteri, Gomezjurado~Gonzalez, and
+  Barrett]{viteri2026intrinsic}
+Scott~W. Viteri, Laura Gomezjurado~Gonzalez, and Clark Barrett.
+\newblock When do intrinsic rewards lead to exploration?, 2026.
+\newblock arXiv:2610.02159.
+
+\bibitem[Zheng et~al.(2018)Zheng, Oh, and Singh]{zheng2018learning}
+Zeyu Zheng, Junhyuk Oh, and Satinder Singh.
+\newblock On learning intrinsic rewards for policy gradient methods.
+\newblock In \emph{Advances in Neural Information Processing Systems 31
+  (NeurIPS 2018)}, 2018.
+\newblock \doi{10.48550/arXiv.1804.06459}.
+\newblock arXiv:1804.06459.
+
+\end{thebibliography}

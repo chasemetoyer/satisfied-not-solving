@@ -1,0 +1,20 @@
+col1,col2
+Setting,Value
+Environments in parallel,16
+Rollout length per environment,128
+Batch,2048
+Environment steps per seed,"2,000,000"
+Learning rate (linearly annealed),2.5e-4
+Discount gamma,0.99
+GAE lambda,0.95
+Minibatches per epoch,4
+Epochs per update,4
+Clip coefficient,0.2
+Entropy coefficient,0.01
+Value coefficient,0.5
+Max gradient norm,0.5
+Advantage normalization (per minibatch),"on, or off where stated"
+"Needs h (explore, grasp, open): start h_0",0.5
+Relief per event (satiety),"0.1, 1.0, 1.0"
+Intrinsic coefficient,1.0
+Final evaluation episodes per environment,64

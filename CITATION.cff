@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Satisfied, Not Solving: Wireheading of Bounded Homeostatic Rewards in Reinforcement Learning"
+authors:
+  - family-names: Metoyer
+    given-names: Chase J.
+    affiliation: Northeastern University
+version: "1.0"
+date-released: "2026-10-27"
+license: MIT
+repository-code: "https://github.com/chasemetoyer/satisfied-not-solving"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23708846
+    description: "Release materials archived on Zenodo"
+keywords: [reinforcement learning, intrinsic motivation, homeostatic reinforcement learning, wireheading, reward tampering, pre-registration]

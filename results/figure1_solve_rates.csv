@@ -1,0 +1,14 @@
+setting,arm,run_id,solved,seeds,solve_rate,ci95_lo,ci95_hi
+DoorKey growth 1/160 norm on,task-only,022a3e90,11,20,0.55,0.31527813304054847,0.7694221032240758
+DoorKey growth 1/160 norm on,satiation (ours),3629f9a7,20,20,1.0,0.8315665290169146,1.0
+DoorKey growth 1/160 norm on,satiation (ours) + tamper,bb00e7e5,1,20,0.05,0.0012650894979498038,0.24873276277202777
+DoorKey growth 1/160 norm off,task-only,1c7b2eda,0,20,0.0,0.0,0.16843347098308528
+DoorKey growth 1/160 norm off,satiation (ours),115c6566,20,20,1.0,0.8315665290169146,1.0
+DoorKey growth 1/160 norm off,satiation (ours) + tamper,a8f5efc4,0,20,0.0,0.0,0.16843347098308528
+DoorKey growth 1/40 norm on,satiation (ours),4d3b84f0,11,20,0.55,0.31527813304054847,0.7694221032240758
+DoorKey growth 1/40 norm on,satiation (ours) + tamper,78c44406,1,20,0.05,0.0012650894979498038,0.24873276277202777
+DoorKey growth 1/40 norm off,satiation (ours),a6e11900,20,20,1.0,0.8315665290169146,1.0
+DoorKey growth 1/40 norm off,satiation (ours) + tamper,f0a40d20,0,20,0.0,0.0,0.16843347098308528
+KeyCorridorS3R1 growth 1/160 norm on,task-only,6571bce6,20,20,1.0,0.8315665290169146,1.0
+KeyCorridorS3R1 growth 1/160 norm on,satiation (ours),c14516de,20,20,1.0,0.8315665290169146,1.0
+KeyCorridorS3R1 growth 1/160 norm on,satiation (ours) + tamper,35c840cd,0,20,0.0,0.0,0.16843347098308528
