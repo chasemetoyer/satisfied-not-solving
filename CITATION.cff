@@ -11,6 +11,6 @@ license: MIT
 repository-code: "https://github.com/chasemetoyer/satisfied-not-solving"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.23708846
+    value: 10.5281/zenodo.23708845
     description: "Release materials archived on Zenodo"
 keywords: [reinforcement learning, intrinsic motivation, homeostatic reinforcement learning, wireheading, reward tampering, pre-registration]

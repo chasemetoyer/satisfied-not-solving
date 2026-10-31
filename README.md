@@ -3,7 +3,7 @@
 Code, data and every result file for the paper by Chase J. Metoyer (Northeastern University).
 
 - **Paper:** `paper/main.pdf` (LaTeX source in `paper/`). The arXiv link will be added here once it is announced.
-- **Archived snapshot:** release materials on Zenodo, [doi:10.5281/zenodo.23708846](https://doi.org/10.5281/zenodo.23708846).
+- **Archived snapshot:** release materials on Zenodo, [doi:10.5281/zenodo.23708845](https://doi.org/10.5281/zenodo.23708845).
 - **This version:** tag `v1.0`. The paper's links point to files at this tag.
 
 **What the paper finds.** We give PPO agents a bounded "satiation" reward (needs that build up over time, where
