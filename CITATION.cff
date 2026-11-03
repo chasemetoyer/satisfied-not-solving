@@ -13,4 +13,17 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.23708845
     description: "Release materials archived on Zenodo"
+  - type: doi
+    value: 10.48550/arXiv.2611.01183
+    description: "The paper on arXiv"
 keywords: [reinforcement learning, intrinsic motivation, homeostatic reinforcement learning, wireheading, reward tampering, pre-registration]
+preferred-citation:
+  type: article
+  title: "Satisfied, Not Solving: Wireheading of Bounded Homeostatic Rewards in Reinforcement Learning"
+  authors:
+    - family-names: Metoyer
+      given-names: Chase J.
+      affiliation: Northeastern University
+  year: 2026
+  doi: 10.48550/arXiv.2611.01183
+  url: "https://arxiv.org/abs/2611.01183"

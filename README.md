@@ -2,7 +2,7 @@
 
 Code, data and every result file for the paper by Chase J. Metoyer (Northeastern University).
 
-- **Paper:** `paper/main.pdf` (LaTeX source in `paper/`). The arXiv link will be added here once it is announced.
+- **Paper:** [arXiv:2611.01183](https://arxiv.org/abs/2611.01183) (also `paper/main.pdf`, LaTeX source in `paper/`).
 - **Archived snapshot:** release materials on Zenodo, [doi:10.5281/zenodo.23708845](https://doi.org/10.5281/zenodo.23708845).
 - **Versions:** the paper's file links point to tag `v1.0`; tag `v1.0.1` is the repository snapshot archived on
   Zenodo. `main` holds the current paper.
@@ -134,3 +134,16 @@ paper/                    LaTeX source, generated tables and figures, and the co
 - **Code:** MIT (see `LICENSE`).
 - **Data and result files:** also released under CC BY 4.0, matching the Zenodo archive.
 - **Citation:** please cite the paper; `CITATION.cff` has the details.
+
+```bibtex
+@misc{metoyer2026satisfied,
+  title         = {Satisfied, Not Solving: Wireheading of Bounded Homeostatic Rewards in Reinforcement Learning},
+  author        = {Metoyer, Chase J.},
+  year          = {2026},
+  eprint        = {2611.01183},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG},
+  doi           = {10.48550/arXiv.2611.01183},
+  url           = {https://arxiv.org/abs/2611.01183}
+}
+```
